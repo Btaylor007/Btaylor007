@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Breanna Taylor.
 - 👀 I’m interested reading, animals,and cooking.
-- 🌱 I’m currently learning 102 intro to computers.
+- 🌱 I'm an airforce veteran proir Security Forces which lead me into my next milestone of being an Electronic technician which undercover a unknown passion of cybersecurity for me. 
+-  I’m currently learning in my 201 space of cybersecurity engineering course at code fellows.
 - I can be reached at my gmail brekelseytaylor@gmail.com 
 
 <!---
